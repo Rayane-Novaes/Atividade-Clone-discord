@@ -218,3 +218,23 @@ ul, li{
 .botão-começa:hover{
     background-color: #757feb;
 }
+
+footer{
+    background-color: #23272a;
+    display: flex;
+    color: #f6f6f6;
+    gap: 85px;
+    padding: 80px;
+}
+
+.brasil{
+    display: flex;
+    gap: 20px;
+}
+
+.redes-sociais{
+    display: flex;
+    margin-top: 30px;
+    gap: 15px;
+
+}
