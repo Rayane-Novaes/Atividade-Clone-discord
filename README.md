@@ -3,7 +3,7 @@
 
 ![Badge concluído](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge)
 
-Acesse o link: https://rayane-novaes.github.io/-ATIVIDADE--Clone-discord/
+Acesse o link: https://rayane-novaes.github.io/Atividade-Clone-discord/
 
 
 
