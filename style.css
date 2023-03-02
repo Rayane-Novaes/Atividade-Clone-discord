@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
 
 
 *{
@@ -237,4 +238,33 @@ footer{
     margin-top: 30px;
     gap: 15px;
 
+}
+
+.texto-footer{
+    padding: 4px;
+    font-size: 12px;
+}
+
+.texto-footer:hover{
+    text-decoration: underline;
+}
+
+.titulo-footer, h5 {
+    color: #5865F2;
+}
+
+.titulo-footer{
+   font-family: 'Lalezar', cursive;
+   font-size: 42px;
+   letter-spacing: 3px;
+   line-height: 36px;
+}
+
+.bandeira-brasil{
+    max-width: 20px;
+    height: 16px;
+}
+
+.linguagem{
+    font-size: 8px;
 }
